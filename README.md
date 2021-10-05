@@ -1,4 +1,4 @@
-  #  Tic-Tac-Toe-Game-Python
+ # 🎮 Tic-Tac-Toe-Game-Python
 
 We created a tic tac toe game using python
 
@@ -8,41 +8,41 @@ We created a tic tac toe game using python
 
   
 
-- | - | -
+      - | - | -
 
-- | - | -
+      - | - | -
 
-- | - | -
+      - | - | -
 
 X's turn.
 
 Choose a position from 1-9 1
 
-X | - | -
+      X | - | -
 
-- | - | -
+      - | - | -
 
-- | - | -
+      - | - | -
 
 O's turn.
 
 Choose a position from 1-9 2
 
-X | O | -
-
-- | - | -
-
-- | - | -
+      X | O | -
+    
+      - | - | -
+    
+      - | - | -
 
 X's turn.
 
 Choose a position from 1-9 5
 
-X | O | -
-
-- | X | -
-
-- | - | -
+      X | O | -
+    
+      -| X | -
+    
+      -| - | -
 
 O's turn.
 
@@ -52,19 +52,22 @@ You cant go there. Go again.
 
 Invalid input. Choose a position from 1-9 4
 
-X | O | -
+     X | O | -
+    
+     O | X | -
+    
+     - | - | -
 
-O | X | -
-
-- | - | -
 
 X's turn.
 
 Choose a position from 1-9 9
 
-X | O | -
-O | X | -
--| - | X
+     X | O | -
+     
+     O | X | -
+     
+     - | - | X
 
 X Won.
 
@@ -85,9 +88,9 @@ Step: 2
 
 ## 🚀 Tech use
 
-Python
-tkinter
-Different lib.
+    Python
+    tkinter
+    Different lib.
 
 
 
