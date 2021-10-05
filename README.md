@@ -1,7 +1,8 @@
  # 🎮 Tic-Tac-Toe-Game-Python
 
-We are going to created a tic tac toe game using python
+> We are going to created a tic tac toe game using python
 
+Tic-tac-toe is a very popular game, so this game is implemented using Python. So, the best and the most fun way to learn any programming language for me has always been by developing a fun project like a simple game or some project that I would use in my daily life.
   
 
 #  Out Put
@@ -90,7 +91,7 @@ Step: 2
 
     Python
     tkinter
-    
+  
 
 
 
