@@ -1,6 +1,6 @@
  # 🎮 Tic-Tac-Toe-Game-Python
 
-We created a tic tac toe game using python
+We are going to created a tic tac toe game using python
 
   
 
@@ -90,7 +90,7 @@ Step: 2
 
     Python
     tkinter
-    Different lib.
+    
 
 
 
