@@ -6,67 +6,37 @@ We created a tic tac toe game using python
 
 #  Out Put
 
-  
-
-- | - | -
-
-- | - | -
-
-- | - | -
-
-X's turn.
-
-Choose a position from 1-9 1
-
-X | - | -
-
-- | - | -
-
-- | - | -
-
-O's turn.
-
-Choose a position from 1-9 2
-
-X | O | -
-
-- | - | -
-
-- | - | -
-
-X's turn.
-
-Choose a position from 1-9 5
-
-X | O | -
-
-- | X | -
-
-- | - | -
-
-O's turn.
-
-Choose a position from 1-9 5
-
-You cant go there. Go again.
-
-Invalid input. Choose a position from 1-9 4
-
-X | O | -
-
-O | X | -
-
-- | - | -
-
-X's turn.
-
-Choose a position from 1-9 9
-
-X | O | -
-O | X | -
--| - | X
-
-X Won.
+ - | - | -
+    - | - | -
+    - | - | -
+    X's turn.
+    Choose a position from 1-9 1
+    X | - | -
+    - | - | -
+    - | - | -
+    O's turn.
+    Choose a position from 1-9 2
+    X | O | -
+    - | - | -
+    - | - | -
+    X's turn.
+    Choose a position from 1-9 5
+    X | O | -
+    - | X | -
+    - | - | -
+    O's turn.
+    Choose a position from 1-9 5
+    You cant go there. Go again.
+    Invalid input. Choose a position from 1-9 4
+    X | O | -
+    O | X | -
+    - | - | -
+    X's turn.
+    Choose a position from 1-9 9
+    X | O | -
+    O | X | -
+    - | - | X
+    X Won.
 
  
 #  How To Clone This Repo
