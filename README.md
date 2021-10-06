@@ -85,7 +85,7 @@ Step: 1
 
 Step: 2
 
-=> Open Follder with the help of any Terminal
+=> Open Folder with the help of any Terminal
 
 ## 🚀 Tech use
 
