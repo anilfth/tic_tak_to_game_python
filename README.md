@@ -7,8 +7,6 @@ Tic-tac-toe is a very popular game, so this game is implemented using Python. So
 
 #  Out Put
 
-  
-
       - | - | -
 
       - | - | -
@@ -17,17 +15,17 @@ Tic-tac-toe is a very popular game, so this game is implemented using Python. So
 
 X's turn.
 
-Choose a position from 1-9 1
+>Choose a position from 1-9: `1`
 
       X | - | -
-
+      
       - | - | -
 
       - | - | -
 
 O's turn.
 
-Choose a position from 1-9 2
+>Choose a position from 1-9: `2`
 
       X | O | -
     
@@ -37,7 +35,7 @@ Choose a position from 1-9 2
 
 X's turn.
 
-Choose a position from 1-9 5
+>Choose a position from 1-9: `5`
 
       X | O | -
     
@@ -47,11 +45,11 @@ Choose a position from 1-9 5
 
 O's turn.
 
-Choose a position from 1-9 5
+>Choose a position from 1-9: `5`
 
 You cant go there. Go again.
 
-Invalid input. Choose a position from 1-9 4
+>Invalid input. Choose a position from 1-9: `4`
 
      X | O | -
     
@@ -62,7 +60,7 @@ Invalid input. Choose a position from 1-9 4
 
 X's turn.
 
-Choose a position from 1-9 9
+>Choose a position from 1-9:  `9`
 
      X | O | -
      
@@ -75,24 +73,29 @@ X Won.
  
 #  How To Clone This Repo
 
-  
+## Step: 1
 
-Step: 1
+Open Terminal and type command
+~~~
+git clone https://github.com/anilfth/tic_tak_to_game_python
+~~~
+<br>
+<br>
 
-=> Open Terminal and type command => git clone https://github.com/anilfth/tic_tak_to_game_python.git
+## Step: 2
 
-  
+Write following lines in the terminal
+~~~
+cd tic_tak_to_game_python
+~~~  
+Open Folder any IDE in that folder (if the terminal is not of any IDE)  
 
-Step: 2
 
-=> Open Folder with the help of any Terminal
+<br>
+<br>
 
 ## 🚀 Tech use
 
-    Python
-    tkinter
-  
-
-
-
-Thank You !
+- Python
+- tkinter
+- PyQt5
